@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# rsschool-cv   
+# Pavel Linevich   
+## Contacts:  
+=======
 # rsschool-cv   
 # Pavel Linevich   
 ## Contacts:   
@@ -11,3 +16,4 @@ HTML, CSS.
 Belarusian State Agricultural Academy, Amelioration and Construction Faculty, Rural construction and land improvement, Civil engineer.   
 ## Language:   
 English - A0.
+>>>>>>> 7d8758a8785743210c74855aa82a8d55035252c6

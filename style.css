@@ -1,0 +1,30 @@
+.boss {
+    max-width: 1200px;
+    margin: auto;
+}
+header {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+body {
+    display: block;
+}
+.logo {
+    width: 300px;
+    border-radius: 10px;
+}
+h1 {
+    font-size: 3em;
+    margin: 0;
+    padding: 0;
+}
+h3 {
+    font-size: 1.5em;
+}
+section {
+    padding: 0 20px;
+
+}
